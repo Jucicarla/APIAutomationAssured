@@ -1,5 +1,8 @@
 # APIAutomationAssured
+
 exemplo teste usando Rest Assured
+
+Testes de API: Dos Manuais aos Automatizados - DIO
 
 Aula- Testes automatizados de API com Rest Assured
 
@@ -12,6 +15,6 @@ os cabeçalhos da resposta e o corpo da resposta. Rest Assured também oferece s
 
 1. Criar e configurar projeto de automação com Rest Assured 
 
-2.Entender e criar estrutura do projeto com abordagem híbrida 
+2. Entender e criar estrutura do projeto com abordagem híbrida 
 
-3.Implementar scripts automatizados para endpoints de Usuário
+3. Implementar scripts automatizados para endpoints de Usuário
