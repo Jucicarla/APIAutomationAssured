@@ -18,3 +18,5 @@ os cabeçalhos da resposta e o corpo da resposta. Rest Assured também oferece s
 2. Entender e criar estrutura do projeto com abordagem híbrida 
 
 3. Implementar scripts automatizados para endpoints de Usuário
+
+API que foi usada : PetStore - Swagger https://petstore.swagger.io/
